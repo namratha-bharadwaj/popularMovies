@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PopularMovies_Latest</string>
+    <string name="movie_trailer_activity_title">Movie Videos</string>
+
+    <!-- Dummy text view values -->
+    <string name="sample_movie_title">Huuuge Movie Title</string>
+    <string name="sample_movie_release_date">2018</string>
+    <string name="sample_movie_rating">7.25</string>
+    <string name="sample_movie_overview">This is a dummy overview.</string>
+    <string name="reviews_tag">Movie Reviews</string>
+    <string name="author_label" translatable="false">Author: </string>
+    <string name="author">John Doe</string>
+    <string name="details_screen_title">Movie Details</string>
+    <string name="sample_trailer_name">Youtube trailer/Teaser</string>
+
+    <!-- Main activity menu items strings -->
+    <string name="top_rated_movies_menu_label">Top Rated</string>
+    <string name="most_popular_movies_menu_label">Most Popular</string>
+    <string name="favourite_movies_menu_label">Favourites</string>
+
+    <string name="toast_remove_favorites">Movie removed from Favorites</string>
+    <string name="toast_add_favorites">Movie added to Favorites</string>
+
+</resources>
